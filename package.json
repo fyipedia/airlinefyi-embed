@@ -1,0 +1,43 @@
+{
+  "name": "airlinefyi-embed",
+  "version": "1.0.0",
+  "description": "Embed AirlineFYI widgets — airline cards, glossary, guides, route badges. 6,161 airlines. Zero dependencies, Shadow DOM, 4 themes.",
+  "main": "dist/embed.min.js",
+  "module": "dist/embed.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "airline",
+    "airlines",
+    "aviation",
+    "fleet",
+    "alliance",
+    "routes",
+    "IATA",
+    "embed",
+    "widget",
+    "airlinefyi",
+    "airlinefyi.com",
+    "shadow-dom",
+    "zero-dependencies",
+    "fyipedia",
+    "transportfyi"
+  ],
+  "homepage": "https://widget.airlinefyi.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fyipedia/airlinefyi-embed"
+  },
+  "bugs": {
+    "url": "https://github.com/fyipedia/airlinefyi-embed/issues"
+  },
+  "license": "MIT",
+  "author": "FYIPedia <dev@fyipedia.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
