@@ -185,6 +185,17 @@ Part of [FYIPedia](https://fyipedia.com) — open-source developer tools ecosyst
 | namefyi | [PyPI](https://pypi.org/project/namefyi/) | [npm](https://www.npmjs.com/package/namefyi) | Korean romanization & Five Elements — [namefyi.com](https://namefyi.com) |
 | fyipedia | [PyPI](https://pypi.org/project/fyipedia/) | — | Unified CLI for all FYI tools — [fyipedia.com](https://fyipedia.com) |
 
+## Embed Widget
+
+Embed [AirlineFYI](https://airlinefyi.com) widgets on any website with [airlinefyi-embed](https://widget.airlinefyi.com):
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/airlinefyi-embed@1/dist/embed.min.js"></script>
+<div data-airlinefyi="entity" data-slug="example"></div>
+```
+
+Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.airlinefyi.com)
+
 ## License
 
 MIT — see [LICENSE](./LICENSE).
